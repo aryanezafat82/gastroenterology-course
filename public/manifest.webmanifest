@@ -1,0 +1,28 @@
+{
+  "id": "/gastroenterology-course/",
+  "name": "گوارش — دوره آموزشی",
+  "short_name": "گوارش",
+  "description": "دوره آموزشی بیماری‌های گوارش و کبد",
+  "start_url": "/gastroenterology-course/",
+  "scope": "/gastroenterology-course/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#e11d48",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/gastroenterology-course/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/gastroenterology-course/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

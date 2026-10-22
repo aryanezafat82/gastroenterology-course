@@ -1,0 +1,17 @@
+{
+  "title": "موضوعات",
+  "topics": [
+    { "id": "esophagus", "label": "مری" },
+    { "id": "stomach-duodenum", "label": "معده و دوازدهه" },
+    { "id": "small-bowel", "label": "روده باریک و سوءجذب" },
+    { "id": "colon-rectum", "label": "کولون و رکتوم" },
+    { "id": "ibd", "label": "بیماری‌های التهابی روده" },
+    { "id": "liver", "label": "کبد" },
+    { "id": "biliary", "label": "کیسه صفرا و مجاری صفراوی" },
+    { "id": "pancreas", "label": "پانکراس" },
+    { "id": "gi-bleeding", "label": "خونریزی گوارشی" },
+    { "id": "gi-motility", "label": "اختلالات حرکتی" },
+    { "id": "gi-infections", "label": "عفونت‌های گوارشی" },
+    { "id": "gi-oncology", "label": "تومورهای گوارشی" }
+  ]
+}

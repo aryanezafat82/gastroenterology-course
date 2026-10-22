@@ -1,0 +1,29 @@
+{
+  "exam": {
+    "id": "EXAM-ID",
+    "label": "برچسب دوره امتحان",
+    "sourceFile": "نام فایل منبع.txt",
+    "questionCount": 1,
+    "questions": [
+      {
+        "id": "EXAM-ID-q-01",
+        "type": "mcq",
+        "topic": "esophagus",
+        "sessionId": "unknown",
+        "question": "متن سؤال؟",
+        "options": ["گزینه ۱", "گزینه ۲", "گزینه ۳", "گزینه ۴"],
+        "correctAnswer": 0,
+        "explanation": "توضیح پاسخ صحیح."
+      },
+      {
+        "id": "EXAM-ID-q-02",
+        "type": "short_answer",
+        "topic": "liver",
+        "sessionId": "unknown",
+        "question": "متن سؤال کوتاه‌پاسخ؟",
+        "answerText": "پاسخ کوتاه.",
+        "explanation": "توضیح تکمیلی."
+      }
+    ]
+  }
+}

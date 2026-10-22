@@ -1,0 +1,66 @@
+{
+  "session": {
+    "id": "session-02",
+    "title": "عنوان جلسه",
+    "shortTitle": "نام استاد یا خلاصه",
+    "description": "توضیح کوتاه یک‌خطی از محتوای جلسه.",
+    "sections": [
+      {
+        "id": "session-02-section-01",
+        "title": "عنوان بخش",
+        "description": "توضیح کوتاه بخش.",
+        "cards": [
+          {
+            "id": "session-02-section-01-card-01",
+            "type": "info",
+            "title": "عنوان کارت متنی",
+            "content": "متن آموزشی.\n\nپاراگراف دوم."
+          },
+          {
+            "id": "session-02-section-01-card-02",
+            "type": "key_point",
+            "title": "نکته کلیدی",
+            "content": "متن نکته."
+          },
+          {
+            "id": "session-02-section-01-card-03",
+            "type": "table",
+            "title": "عنوان جدول",
+            "columns": ["ستون ۱", "ستون ۲"],
+            "rows": [
+              ["مقدار ۱", "مقدار ۲"],
+              ["مقدار ۳", "مقدار ۴"]
+            ]
+          },
+          {
+            "id": "session-02-section-01-card-04",
+            "type": "flashcard",
+            "question": "پرسش؟",
+            "answer": "پاسخ."
+          },
+          {
+            "id": "session-02-section-01-card-05",
+            "type": "quiz",
+            "question": "متن سؤال چهارگزینه‌ای؟",
+            "options": ["گزینه ۱", "گزینه ۲", "گزینه ۳", "گزینه ۴"],
+            "correctAnswer": 0,
+            "explanation": "توضیح پاسخ صحیح."
+          }
+        ]
+      },
+      {
+        "id": "session-02-section-02",
+        "title": "عنوان بخش دوم",
+        "description": "توضیح کوتاه بخش دوم.",
+        "cards": [
+          {
+            "id": "session-02-section-02-card-01",
+            "type": "info",
+            "title": "عنوان کارت",
+            "content": "متن."
+          }
+        ]
+      }
+    ]
+  }
+}
