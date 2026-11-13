@@ -1,0 +1,374 @@
+{
+  "session": {
+    "id": "session-04",
+    "title": "اختلالات مری",
+    "shortTitle": "استاد حجتی",
+    "description": "مرور میکرولرنینگ آناتومی، علائم، اختلالات ساختاری، GERD، اختلالات حرکتی، عفونت‌ها و اورژانس‌های مری",
+    "sections": [
+      {
+        "id": "section-01",
+        "title": "آناتومی و فیزیولوژی پایه",
+        "description": "ساختار مری، عضلات، شبکه‌های عصبی، اسفنکترها، خون‌رسانی و تست‌های عملکردی",
+        "cards": [
+          {
+            "id": "session-04-section-01-card-01",
+            "type": "info",
+            "title": "ساختار کلی مری",
+            "content": "مری یک لوله عضلانی توخالی در مدیاستن خلفی است که هیپوفارنکس را به معده متصل می‌کند و در هر دو انتها اسفنکتر دارد.\nطول مری حدود ++27 cm++ است و از سه لایه مخاط، زیرمخاط و عضلانی تشکیل شده است. @@مری لایه سروز ندارد@@."
+          },
+          {
+            "id": "session-04-section-01-card-02",
+            "type": "info",
+            "title": "مخاط و لایه عضلانی",
+            "content": "مخاط مری اپیتلیوم سنگفرشی مطبق غیرکراتینیزه است و در محل اتصال معده به اپیتلیوم ستونی تبدیل می‌شود.\nیک‌سوم فوقانی عضله مخطط و دو‌سوم تحتانی عضله صاف است؛ آرایش داخلی حلقوی و خارجی طولی باعث پریستالسیس هماهنگ می‌شود."
+          },
+          {
+            "id": "session-04-section-01-card-03",
+            "type": "info",
+            "title": "شبکه‌های عصبی مری",
+            "content": "**Auerbach** (myenteric) بین لایه‌های عضلانی حلقوی و طولی قرار دارد.\n**Meissner** در زیرمخاط قرار دارد و muscularis mucosae را عصب‌دهی می‌کند."
+          },
+          {
+            "id": "session-04-section-01-card-04",
+            "type": "info",
+            "title": "اسفنکترها و خون‌رسانی",
+            "content": "اسفنکتر فوقانی مری ++2-4 cm++ است و از inferior pharyngeal constrictor و cricopharyngeal ساخته می‌شود. اسفنکتر تحتانی ++4-5 cm++ است و ناحیه فشار بالا برای جلوگیری از ریفلاکس است.\nخون بخش cervical از شاخه‌های inferior thyroid، بخش intrathoracic از bronchial arteries و شاخه‌های مستقیم آئورت، و بخش abdominal از left gastric و inferior phrenic تأمین می‌شود."
+          },
+          {
+            "id": "session-04-section-01-card-05",
+            "type": "info",
+            "title": "تست‌های عملکردی مری",
+            "content": "گزینه‌های تست عملکردی شامل **barium esophagography**، **high-resolution esophageal manometry** و **esophageal impedance testing** است.\n**Functional luminal imaging probe** بالن‌دار فشار پاسخ به اتساع حجمی کنترل‌شده را می‌سنجد و می‌تواند compliance دیواره مری و LES و motility جسم مری را ارزیابی کند."
+          }
+        ]
+      },
+      {
+        "id": "section-02",
+        "title": "علائم بیماری‌های مری",
+        "description": "سوزش سر دل، دیسفاژی، برگشت غذا و گیر کردن غذا",
+        "cards": [
+          {
+            "id": "session-04-section-02-card-01",
+            "type": "info",
+            "title": "شایع‌ترین علامت",
+            "content": "شایع‌ترین علامت بیماری مری ==سوزش سر دل== است: احساس سوزش زیر جناغ.\n==دیسفاژی== یعنی سختی بلع."
+          },
+          {
+            "id": "session-04-section-02-card-02",
+            "type": "key_point",
+            "title": "الگوی دیسفاژی",
+            "content": "==دیسفاژی فقط با غذای جامد== بیشتر در ضایعات ساختاری با تنگی مری دیده می‌شود.\n==دیسفاژی با مایعات و جامدات== بیشتر در اختلالات حرکتی دیده می‌شود."
+          },
+          {
+            "id": "session-04-section-02-card-03",
+            "type": "info",
+            "title": "دیسفاژی اوروفارنژیال",
+            "content": "در ==دیسفاژی اوروفارنژیال== بیمار احساس گیر کردن غذا در گلو یا ناتوانی در هدایت بولوس از دهان به فارنکس دارد و ممکن است چند بار بلع لازم باشد.\nعلائم همراه: **drooling**، **dysarthria**، **nasal regurgitation**، **coughing** و **aspiration**."
+          },
+          {
+            "id": "session-04-section-02-card-04",
+            "type": "info",
+            "title": "محل دیسفاژی، برگشت و گیر کردن غذا",
+            "content": "دیسفاژی ناشی از جسم مری ممکن است به قفسه سینه یا گردن ارجاع شود؛ @@محل دیسفاژی محل ضایعه را پیش‌بینی نمی‌کند@@.\n==برگشت غذا== زود در وعده به ضایعه پروکسیمال و دیر در وعده به اختلال حرکتی مثل ==آکالازی== اشاره دارد.\n==گیر کردن غذا== در ضایعات دیستال معمولاً مکانیکی است؛ در اوروفارنکس می‌تواند به tracheal impaction/compression منجر شود و انسداد کامل خطر aspiration، پارگی و perforation دارد."
+          }
+        ]
+      },
+      {
+        "id": "section-03",
+        "title": "اختلالات ساختاری",
+        "description": "دیورتیکول‌ها، حلقه‌ها و وب‌ها، فتق هیاتال و ازوفاژیت ائوزینوفیلیک",
+        "cards": [
+          {
+            "id": "session-04-section-03-card-01",
+            "type": "info",
+            "title": "دیورتیکول مری",
+            "content": "==دیورتیکول مری== در کمتر از ++1%++ مطالعات رادیوگرافی گوارش فوقانی دیده می‌شود و کمتر از ++5%++ موارد دیسفاژی را تشکیل می‌دهد.\nسه محل: بالای UES، میانه مری و کمی بالای LES."
+          },
+          {
+            "id": "session-04-section-03-card-02",
+            "type": "table",
+            "title": "انواع دیورتیکول مری",
+            "columns": ["نوع", "محل/ویژگی", "علت/نکته"],
+            "rows": [
+              ["==Zenker==", "کیسه‌ای که به سمت posterior بالای UES بیرون می‌زند", "نوع شایع دیورتیکول پروکسیمال"],
+              ["==دیورتیکول میانه مری==", "outpouching کانونی وسط مری", "مرتبط با اختلال motility مری؛ سابقه TB ممکن است ایجاد کند"],
+              ["==دیورتیکول اپی‌فرنیک==", "هرنی مخاط و زیرمخاط از لایه عضلانی در ++10 cm++ دیستال مری", "اغلب انسداد عملکردی LES با motility abnormal مثل آکالازی/DES؛ گاهی انسداد مکانیکی (leiomyoma، جراحی قبلی، تنگی، stricture، تومور، web)"]
+            ]
+          },
+          {
+            "id": "session-04-section-03-card-03",
+            "type": "table",
+            "title": "حلقه و وب مری",
+            "columns": ["ویژگی", "حلقه مری", "وب مری"],
+            "rows": [
+              ["محل", "معمولاً دیستال مری", "هر جای مری اما شایع‌تر پروکسیمال"],
+              ["شکل", "ناحیه تنگی متحدالمرکز", "نازک، eccentrically membranous"],
+              ["نکته مهم", "==Schatzki ring== نازک، ثابت و circumferential در GEJ، معمولاً لبه پروکسیمال فتق هیاتال؛ علت congenital، چین مخاطی اضافه یا GERD", "پاتوژنز ناشناخته؛ همراه با bullous skin disorders، chronic GVHD و iron deficiency anemia"],
+              ["علامت", "علائم اگر قطر lumen ++13 mm++ یا کمتر شود", "معمولاً دیسفاژی"]
+            ]
+          },
+          {
+            "id": "session-04-section-03-card-04",
+            "type": "table",
+            "title": "انواع فتق هیاتال",
+            "columns": ["نوع", "تعریف", "نکته"],
+            "rows": [
+              ["Type I (sliding)", "جابه‌جایی GEJ بالای hiatus دیافراگم", "شایع‌ترین؛ معمولاً بدون علامت یا heartburn/acid regurgitation؛ درمان مثل GERD"],
+              ["Type II (true paraesophageal)", "GEJ در محل طبیعی، اما fundus و بخشی از greater curvature به مدیاستن هرنی می‌کنند", "نادر"],
+              ["Type III (mixed paraesophageal)", "GEJ و بخش بزرگی از معده به مدیاستن هرنی می‌کنند", "علائم postprandial distress"]
+            ]
+          },
+          {
+            "id": "session-04-section-03-card-05",
+            "type": "key_point",
+            "title": "فتق هیاتال پارازوفاژیال",
+            "content": "علائم ==فتق هیاتال پارازوفاژیال==: درد epigastric، درد قفسه سینه، substernal fullness، تنگی نفس، تهوع یا استفراغ.\nدر فتق بزرگ با حداقل ++1/3++ معده در قفسه سینه، iron deficiency anemia ممکن است به دلیل erosions خطی معده در سطح دیافراگم رخ دهد.\n@@فتق پارازوفاژیال بدون علامت جراحی لازم ندارد@@؛ نوع علامت‌دار به دلیل خطر strangulation، bleeding، perforation یا obstruction جراحی می‌خواهد."
+          },
+          {
+            "id": "session-04-section-03-card-06",
+            "type": "info",
+            "title": "ازوفاژیت ائوزینوفیلیک: مفهوم",
+            "content": "==ازوفاژیت ائوزینوفیلیک== احتمالاً پاسخ ایمنی/آنتی‌ژنی غیرطبیعی به غذا و **aeroallergens** است که التهاب مزمن با ائوزینوفیلی متراکم مخاط مری ایجاد می‌کند.\nدر کودکان، نوجوانان و جوانان شایع‌تر است ولی بزرگسالان میانسال هم مبتلا می‌شوند."
+          },
+          {
+            "id": "session-04-section-03-card-07",
+            "type": "info",
+            "title": "EoE: تظاهر و تشخیص",
+            "content": "کودکان: failure to thrive، تهوع، استفراغ، درد شکم و علائم dyspeptic.\nبزرگسالان: ==دیسفاژی به غذای جامد==، food impaction یا درد قفسه سینه. @@Boerhaave syndrome@@ ممکن است رخ دهد.\nتشخیص: اندوسکوپی با linear furrowing، white exudates و multiple rings + بیوپسی با infiltration ائوزینوفیلی پس از رد سایر علل مانند GERD، achalasia، vasculitis، hypereosinophilic syndrome، Crohn، Ehlers-Danlos، GVHD، infections و drug hypersensitivity."
+          },
+          {
+            "id": "session-04-section-03-card-08",
+            "type": "info",
+            "title": "EoE: درمان",
+            "content": "درمان ==ازوفاژیت ائوزینوفیلیک== شامل رژیم حذف غذا، **proton pump inhibitors** و **topical steroids** است."
+          }
+        ]
+      },
+      {
+        "id": "section-04",
+        "title": "بیماری ریفلاکس معده به مری",
+        "description": "تعریف، پاتوفیزیولوژی، تشخیص و درمان GERD",
+        "cards": [
+          {
+            "id": "session-04-section-04-card-01",
+            "type": "info",
+            "title": "GERD: تعریف و شیوع",
+            "content": "==GERD== حداقل سوزش سر دل یا برگشت اسید به صورت هفتگی است.\nشیوع در غرب ++10-20%++ و در آسیا کمتر از ++5%++ است. در آمریکا تا ++44%++ افراد ممکن است علائم داشته باشند و ++30%++ در هفته قبل علائم داشته‌اند."
+          },
+          {
+            "id": "session-04-section-04-card-02",
+            "type": "info",
+            "title": "طیف آسیب مری در GERD",
+            "content": "طیف آسیب مری در ==GERD== شامل **esophagitis**، **stricture**، ==Barrett esophagus== و **adenocarcinoma** است."
+          },
+          {
+            "id": "session-04-section-04-card-03",
+            "type": "info",
+            "title": "سد آنتی‌ریفلاکس",
+            "content": "مری با سد آنتی‌ریفلاکس در GEJ، مکانیسم‌های پاکسازی مری و فاکتورهای دفاعی اپیتلیال محافظت می‌شود.\nسد آنتی‌ریفلاکس: LES، crural diaphragm، phrenoesophageal ligament و angle of His (ورود مایل مری به معده). اتصال LES به crural diaphragm فشار را در دم و افزایش فشار داخل شکمی بالا می‌برد."
+          },
+          {
+            "id": "session-04-section-04-card-04",
+            "type": "info",
+            "title": "پاکسازی ریفلاکس و مکانیسم GERD",
+            "content": "در افراد سالم هم ریفلاکس رخ می‌دهد ولی با دو مرحله پاک می‌شود: clearance حجمی با پریستالسیس و خنثی‌سازی اسید باقی‌مانده با بزاق ضعیف قلیایی.\nدر GERD شل شدن گذرای LES یا فشار پایین LES موجب regurgitation می‌شود؛ گاهی افزایش اولیه فشار داخل شکمی بر فشار طبیعی LES غلبه می‌کند (rumination و/یا supragastric belching)."
+          },
+          {
+            "id": "session-04-section-04-card-05",
+            "type": "info",
+            "title": "فتق هیاتال، acid pocket و ریسک‌ها",
+            "content": "==فتق هیاتال== با جدا کردن محور و عمودی اثر crural diaphragm و LES، دهانه GEJ را گشاد و فشار LES را کم می‌کند و ریفلاکس را مستعد می‌کند.\nکیسه اسید بافری‌نشده در کاردیا در دوره پس از غذا منبع ریفلاکس است و جابه‌جایی آن به فتق هیاتال اسید ریفلاکس را بیشتر می‌کند.\nریسک: چاقی (خصوصاً مرکزی)، افزایش سن، استعداد ژنتیکی، فتق هیاتال و افزایش فشار داخل شکمی."
+          },
+          {
+            "id": "session-04-section-04-card-06",
+            "type": "info",
+            "title": "آسیب مخاطی و پریستالسیس",
+            "content": "اسید و pepsin اسیدی‌شده در **refluxate** اتصالات بین‌سلولی را آسیب می‌زنند، نفوذپذیری داخل‌سلولی را افزایش و فضاهای بین‌سلولی را گشاد می‌کنند. اگر مقدار کافی وارد فضای بین‌سلولی شود آسیب سلولی رخ می‌دهد.\nاگر محتویات معده بر دفاع مخاطی غلبه کند، esophagitis به صورت erosion/ulceration، فیبروز با stricture، columnar metaplasia (Barrett) یا adenocarcinoma ممکن است رخ دهد.\nپریستالسیس ناکارآمد وقتی amplitude کمتر از ++20 mm Hg++ باشد و بزاق با smoking/Sjögren کم می‌شود."
+          },
+          {
+            "id": "session-04-section-04-card-07",
+            "type": "info",
+            "title": "تشخیص GERD",
+            "content": "در GERD با علائم تیپیک پاسخ‌دهنده به antisecretory therapy معمولاً ارزیابی تشخیصی لازم نیست؛ جز احتمالاً افراد پرخطر برای ==Barrett esophagus== (سیگار، سن بالا، نبود H. pylori).\nاندوسکوپی تشخیصی اگر پاسخ به ++4-8 هفته++ درمان ندهد یا alarm symptoms/signs (دیسفاژی، کاهش وزن، آنمی، خونریزی GI، سوزش سر دل پایدار) وجود دارد.\nمانومتری برای رد ==آکالازی==؛ تست ریفلاکس با دستگاه ++48-96 ساعت++ یا monitoring ترکیبی impedance و pH ++24 ساعت++."
+          },
+          {
+            "id": "session-04-section-04-card-08",
+            "type": "info",
+            "title": "درمان GERD",
+            "content": "درمان ==GERD==: اصلاح سبک زندگی (بالا بردن سر تخت در ریفلاکس شبانه، کاهش وزن در چاقی)؛ شواهد برای حذف غذا/نوشیدنی ضعیف است.\nمهار ترشح اسید ستون فقرات درمان حاد است و **PPI** بر **H2-receptor antagonists** برای healing esophagitis و کنترل علائم برتری دارد. نگهدارنده طولانی‌مدت PPI با کمترین دوز کنترل‌کننده لازم است.\nشواهد PPI در GERD خارج مری ضعیف است. جراحی آنتی‌ریفلاکس برای esophagitis مستند، عدم تحمل/عدم پاسخ به PPI یا regurgitation حجم زیاد گزینه است."
+          },
+          {
+            "id": "session-04-section-04-card-09",
+            "type": "key_point",
+            "title": "عوارض طولانی‌مدت PPI",
+            "content": "مصرف طولانی **PPI** با کمبود **B12**، infection با **Clostridioides difficile**، pneumonia اکتسابی جامعه، hip fracture، metabolic bone disease، diabetes mellitus و small intestinal bacterial overgrowth همراه است.\n@@شدت این خطرات کم است و از فواید PPI بیشتر نیست@@."
+          }
+        ]
+      },
+      {
+        "id": "section-05",
+        "title": "اختلالات حرکتی و سیستمیک",
+        "description": "آکالازی، اسپاسم منتشر مری و درگیری مری در اسکلرودرما",
+        "cards": [
+          {
+            "id": "session-04-section-05-card-01",
+            "type": "info",
+            "title": "آکالازی: تعریف و پاتوفیزیولوژی",
+            "content": "==آکالازی== اختلال حرکتی پروتوتایپ مری است: شل شدن ناکافی LES + از دست رفتن پریستالسیس مری.\nپاتوفیزیولوژی احتمالاً myenteric plexopathy خودایمنی/آنتی‌بادی‌mediated در LES و neuropathy منتشر جسم مری است؛ نقص نسبی نیتریک اکسید باعث ناتوانی شل شدن اسفنکتر می‌شود."
+          },
+          {
+            "id": "session-04-section-05-card-02",
+            "type": "info",
+            "title": "آکالازی: تظاهر و تشخیص",
+            "content": "شایع‌ترین سن بروز ++30-60 سال++؛ شیوع ++10 در 100,000++ در آمریکا و در همه نژادها و جنسیت‌ها برابر.\nعلائم اصلی: ==دیسفاژی به مایعات و جامدات==، regurgitation و درد قفسه سینه. علائم ظریف: heartburn (احتمالاً به دلیل stasis غذا)، کاهش وزن و aspiration pneumonia.\nتشخیص: manometry و barium radiography؛ رادیوگرافی کلاسیک: dilation، stasis contrast و ظاهر **bird’s beak** در LES. گاهی esophagus massively dilated و **sigmoid**."
+          },
+          {
+            "id": "session-04-section-05-card-03",
+            "type": "info",
+            "title": "آکالازی: درمان",
+            "content": "کاهش obstruction در LES: تزریق **botulinum toxin** داخل اسفنکتر، **pneumatic dilation**، **surgical myotomy** و **peroral endoscopic myotomy (POEM)**."
+          },
+          {
+            "id": "session-04-section-05-card-04",
+            "type": "info",
+            "title": "اسپاسم منتشر مری",
+            "content": "==اسپاسم منتشر مری (DES)== در کمتر از ++5%++ بیماران با manometry برای درد قفسه سینه/دیسفاژی یافت می‌شود. پاتوفیزیولوژی نامشخص؛ نقص نیتریک اکسید در جسم مری ممکن است کنترل پریستالسیس، فشارهای بالا و contractions سریع را از بین ببرد.\nعلائم: درد قفسه سینه متناوب، دیسفاژی یا هر دو. EUS ممکن است thickening circular/longitudinal muscle. تعریف manometric: premature rapid contractions در حداقل ++20%++ بلع‌ها با پریستالسیس طبیعی. رادیوگرافی: **corkscrew esophagus**."
+          },
+          {
+            "id": "session-04-section-05-card-05",
+            "type": "info",
+            "title": "DES: درمان",
+            "content": "درمان ==DES== چالش‌برانگیز است و هیچ درمانی در کارآزمایی efficacy نشان نداده. درمان تجربی: **hyoscyamine**، **calcium-channel antagonists**، **nitroglycerin**، **sildenafil**؛ botulinum toxin در جسم مری نتایج equivocal. antidepressants خصوصاً tricyclics کم‌دوز (مثل **imipramine** ++10-50 mg++ قبل خواب) بعضی موفقیت. برای دیسفاژی: botox و pneumatic dilation؛ @@جراحی فقط با شواهد آکالازی@@."
+          },
+          {
+            "id": "session-04-section-05-card-06",
+            "type": "info",
+            "title": "درگیری مری در اسکلرودرما",
+            "content": "در ==اسکلرودرما== تا ++90%++ بیماران درگیری مری دارند؛ شایع‌ترین اختلال GI بیماری.\nیافته کلاسیک: aperistalsis دو‌سوم دیستال مری و LES hypotensive یا patulous در manometry/رادیوگرافی. تظاهر اصلی severe GERD؛ delayed gastric emptying؛ stasis شدید می‌تواند ==Candida esophagitis== بدهد. درمان: **PPI** + وعده‌های کوچک مکرر و پرهیز از غذای شب."
+          }
+        ]
+      },
+      {
+        "id": "section-06",
+        "title": "عفونت‌ها و اورژانس‌های مری",
+        "description": "عفونت‌های مری، Boerhaave، پرفوراسیون، جسم خارجی و اختلالات متفرقه",
+        "cards": [
+          {
+            "id": "session-04-section-06-card-01",
+            "type": "table",
+            "title": "HSV و Candida مری",
+            "columns": ["بیماری", "گروه/علائم", "اندوسکوپی/تشخیص", "درمان"],
+            "rows": [
+              ["==HSV esophagitis==", "معمولاً **HSV-1**؛ در immunocompromised و گاهی immunocompetent؛ odynophagia شدید", "multiple ulcers و friable mucosa عمدتاً دیستال؛ intranuclear inclusion bodies", "**IV acyclovir** یا oral acyclovir ++7 روز++ + درمان علامتی"],
+              ["==Candida esophagitis==", "HIV، نقص ایمنی سلولی، malignancy، immunosuppressive therapy، دیابت، کورتیکواستروئید و stasis شدید (آکالازی/اسکلرودرما)؛ odynophagia، dysphagia، chest pain", "plaques زرد-سفید پراکنده یا coalescent", "خفیف: topical **clotrimazole** یا **nystatin**؛ متوسط/شدید: oral **fluconazole**؛ شدید/toxemia: IV **fluconazole** و **amphotericin B deoxycholate**"]
+            ]
+          },
+          {
+            "id": "session-04-section-06-card-02",
+            "type": "table",
+            "title": "CMV، باکتری و HPV مری",
+            "columns": ["عفونت", "ویژگی", "تشخیص/درمان"],
+            "rows": [
+              ["==CMV esophagitis==", "تقریباً فقط immunocompromised؛ HIV با CD4 پایین، transplant، malignancy؛ odynophagia شدید و ulcer", "تشخیص با رادیوگرافی/اندوسکوپی؛ درمان **IV ganciclovir** یا **foscarnet**"],
+              ["==باکتریال esophagitis==", "نادر؛ immunosuppressed با neutropenia و malignancy؛ chest pain/odynophagia؛ erosions منتشر معمولاً دیستال", "بیوپسی و Gram stain: التهاب acute/chronic و باکتری‌های gram-positive خصوصاً viridans streptococci، **S. aureus**، **S. epidermidis** و Bacillus؛ آنتی‌بیوتیک parenteral"],
+              ["==HPV esophagitis==", "معمولاً بدون علامت؛ mid-to-distal esophagus", "koilocytosis، giant cells یا IHC؛ معمولاً درمان لازم نیست؛ ضایعات بزرگ endoscopic removal؛ ریسک **SCC**، ارزش surveillance نامشخص"]
+            ]
+          },
+          {
+            "id": "session-04-section-06-card-03",
+            "type": "info",
+            "title": "سندرم Boerhaave",
+            "content": "==سندرم Boerhaave== پارگی خودبه‌خودی و transmural کامل مری است. علت شایع افزایش ناگهانی فشار داخل مری در استفراغ شدید؛ پارگی معمولاً در یک‌سوم تحتانی، ++2-3 cm++ پروکسیمال به GEJ.\nتظاهر کلاسیک: استفراغ، درد توراسیک تحتانی و subcutaneous emphysema؛ pleural effusion خصوصاً چپ، tachypnea، rigidity شکم، تب و hypotension. چون نادر است و استفراغ کلاسیک همیشه ذکر نمی‌شود، اغلب بعد از mediastinitis تشخیص داده می‌شود."
+          },
+          {
+            "id": "session-04-section-06-card-04",
+            "type": "info",
+            "title": "پرفوراسیون ایاتروژنیک مری",
+            "content": "==پرفوراسیون ایاتروژنیک مری== با اندوسکوپی، dilation، endosonography، جراحی یا ingestion جسم خارجی. علائم: درد قفسه سینه با/بدون درد شکم، subcutaneous emphysema و تب.\nتشخیص: اندوسکوپی/رادیوگرافی؛ CXR ممکن است pneumomediastinum، subcutaneous emphysema، hydrothorax/hydropleurothorax نشان دهد؛ **Gastrografin swallow** leak و CT air مدیاستن.\nدرمان موفق وابسته به تشخیص زودرس: ترمیم جراحی + آنتی‌بیوتیک broad-spectrum + nutrition خصوصاً اگر کمتر از ++24 ساعت++؛ conservative با درن percutaneous/آنتی‌بیوتیک/تغذیه؛ در موارد منتخب stent پوشش‌دار یا over-the-scope clips. @@بدون درمان mortality تا 100%@@."
+          },
+          {
+            "id": "session-04-section-06-card-05",
+            "type": "info",
+            "title": "جسم خارجی و گیر کردن غذا",
+            "content": "==گیر کردن جسم خارجی/غذا== اورژانس شایع GI است. گوشت در بزرگسالان شایع‌تر؛ باتری، سکه و استخوان هم ممکن است. بسیاری بیماران abnormality زمینه‌ای دارند: Schatzki ring، stricture، EoE، tumor یا achalasia.\nعلائم: dysphagia، odynophagia، احساس جسم خارجی، chest pain، salivation زیاد و مشکل در handling secretions.\nخروج اندوسکوپیک فوری یا هدایت ملایم بولوس با محافظت راه هوایی توصیه می‌شود؛ @@تاخیر خطر penetration، perforation و mediastinitis دارد@@."
+          },
+          {
+            "id": "session-04-section-06-card-06",
+            "type": "info",
+            "title": "فیستول تراکئوازوفاژیال",
+            "content": "==فیستول تراکئوازوفاژیال== می‌تواند از trauma، infectious esophagitis، necrosis بعد از intubation طولانی، سرطان مری و radiation therapy ایجاد شود. بیماران اغلب بدحال‌اند و ممکن است جراحی را تحمل نکنند؛ **metallic stents** یک گزینه درمانی است."
+          },
+          {
+            "id": "session-04-section-06-card-07",
+            "type": "info",
+            "title": "Inlet patch",
+            "content": "==Heterotopic gastric mucosa (inlet patch)== نواحی اپیتلیوم ستونی معده در تا ++4.5%++ بزرگسالان، معمولاً تصادفی در اندوسکوپی.\nپچ قرمز چند میلی‌متر تا چند سانتی‌متر زیر cricopharyngeus. می‌تواند hoarseness، sore throat و globus sensation بدهد؛ stricture، ulcer و rare malignant transformation هم توصیف شده. درمان: **PPI** و endoscopic ablation."
+          },
+          {
+            "id": "session-04-section-06-card-08",
+            "type": "info",
+            "title": "کیست duplication و Dysphagia lusoria",
+            "content": "==کیست‌های duplication== هر جای مری، ممکن است با لومن مری در ارتباط یا جدا باشند؛ علائم اولیه در بزرگسالی: dysphagia به دلیل compression، chest pain و regurgitation؛ درمان جراحی.\n==Dysphagia lusoria== از aberrant right subclavian artery از right aortic arch با compression جزئی مری هنگام عبور به چپ؛ اغلب تصادفی در barium با impression diagonal در محل اتصال یک‌سوم پروکسیمال و میانی مری."
+          },
+          {
+            "id": "session-04-section-06-card-09",
+            "type": "info",
+            "title": "ازوفاژیت دارویی",
+            "content": "==ازوفاژیت دارویی== وقتی قرص در مری می‌ماند؛ معمولاً به خاطر عادات بد بلع (مایع ناکافی یا دراز کشیدن فوراً بعد از قرص).\nداروهای شایع: آنتی‌بیوتیک‌ها (**tetracycline**، **doxycycline**، **clindamycin**، **penicillin**، **rifampin**، **cloxacillin**)، ضدویروس‌ها (**zalcitabine**، **zidovudine**، **nelfinavir**)، **bisphosphonates** (**alendronate**، **etidronate**، **pamidronate**)، شیمی‌درمانی (**dactinomycin**، **bleomycin**، **cytarabine**، **daunorubicin**، **5-fluorouracil**، **methotrexate**، **vincristine**، **crizotinib**)، **NSAIDs** (**aspirin**، **naproxen**، **ibuprofen**) و سایر (**quinidine**، **potassium chloride**، **ferrous sulfate**، **ascorbic acid**، multivitamins، **theophylline**)."
+          }
+        ]
+      },
+      {
+        "id": "section-07",
+        "title": "مرور سریع",
+        "description": "جمع‌بندی نکات کلیدی و ارزیابی کوتاه",
+        "cards": [
+          {
+            "id": "session-04-section-07-card-01",
+            "type": "key_point",
+            "title": "مرور افتراق‌ها",
+            "content": "==دیسفاژی جامد== → ساختاری؛ ==مایع+جامد== → حرکتی.\n==آکالازی== = LES شل نمی‌شود + آپریستالسیس؛ **bird’s beak**.\n==DES== = **corkscrew** و contractions زودرس در حداقل ++20%++ بلع‌ها.\n==اسکلرودرما== = aperistalsis دو‌سوم دیستال + GERD شدید."
+          },
+          {
+            "id": "session-04-section-07-card-02",
+            "type": "key_point",
+            "title": "مرور درمان و اورژانس",
+            "content": "==GERD== با علائم تیپیک پاسخ‌دهنده نیاز به ارزیابی ندارد؛ اندوسکوپی اگر ++4-8 هفته++ پاسخ ندهد یا alarm signs. **PPI** درمان اصلی.\n==EoE== با بیوپسی ائوزینوفیلی و رد سایر علل؛ درمان رژیم حذف/PPI/استروئید موضعی.\n==Boerhaave== = پارگی transmural بعد استفراغ شدید با subcutaneous emphysema؛ @@اورژانس@@."
+          },
+          {
+            "id": "session-04-section-07-card-03",
+            "type": "flashcard",
+            "question": "دیسفاژی فقط با غذای جامد به چه نوع ضایعه‌ای اشاره دارد؟",
+            "answer": "ضایعات ساختاری با تنگی مری."
+          },
+          {
+            "id": "session-04-section-07-card-04",
+            "type": "quiz",
+            "question": "کدام یافته در ==آکالازی== کلاسیک است؟",
+            "options": [
+              "**bird’s beak** در LES",
+              "**corkscrew esophagus**",
+              "multiple ulcers دیستال",
+              "plaques زرد-سفید"
+            ],
+            "correctAnswer": 0,
+            "explanation": "آکالازی با dilation، stasis contrast و ظاهر **bird’s beak** در LES مشخص می‌شود."
+          },
+          {
+            "id": "session-04-section-07-card-05",
+            "type": "quiz",
+            "question": "در ==GERD==، آستانه amplitude پریستالسیس ناکارآمد چقدر است؟",
+            "options": [
+              "کمتر از ++20 mm Hg++",
+              "کمتر از ++40 mm Hg++",
+              "بیشتر از ++60 mm Hg++",
+              "بیشتر از ++100 mm Hg++"
+            ],
+            "correctAnswer": 0,
+            "explanation": "پریستالسیس ناکارآمد وقتی amplitude کمتر از ++20 mm Hg++ باشد دیده می‌شود."
+          }
+        ]
+      }
+    ]
+  }
+}

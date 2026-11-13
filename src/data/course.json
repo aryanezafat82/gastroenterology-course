@@ -4,8 +4,63 @@
   "sessions": [
     {
       "id": "session-01",
-      "title": "راهنمای ساختار (نمونه)",
+      "title": "پاراکلینیک",
       "file": "session-01.json"
+    },
+    {
+      "id": "session-02",
+      "title": "سیروز",
+      "file": "session-02.json"
+    },
+    {
+      "id": "session-03",
+      "title": "درد شکم",
+      "file": "session-03.json"
+    },
+    {
+      "id": "session-04",
+      "title": "بیماری های مری",
+      "file": "session-04.json"
+    },
+    {
+      "id": "session-05",
+      "title": "دیس پپسی و H.pylori",
+      "file": "session-05.json"
+    },
+    {
+      "id": "session-06",
+      "title": "خونریزی های گوارشی",
+      "file": "session-06.json"
+    },
+    {
+      "id": "session-07",
+      "title": "IBD",
+      "file": "session-07.json"
+    },
+    {
+      "id": "session-08",
+      "title": "بیماری های صفراوی",
+      "file": "session-08.json"
+    },
+    {
+      "id": "session-09",
+      "title": "IBS",
+      "file": "session-09.json"
+    },
+    {
+      "id": "session-10",
+      "title": "PUD",
+      "file": "session-10.json"
+    },
+    {
+      "id": "session-11",
+      "title": "بیماری های پانکراس",
+      "file": "session-11.json"
+    },
+    {
+      "id": "session-12",
+      "title": "یبوست",
+      "file": "session-12.json"
     }
   ]
 }

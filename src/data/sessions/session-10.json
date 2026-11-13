@@ -1,0 +1,412 @@
+{
+  "session": {
+    "id": "session-10",
+    "title": "زخم پپتیک (PUD)",
+    "shortTitle": "استاد قناعی",
+    "description": "مرور فشرده و High-Yield تعریف، پاتوفیزیولوژی، تشخیص، عوارض و درمان زخم پپتیک بر اساس فایل آموزشی.",
+    "sections": [
+      {
+        "id": "section-01",
+        "title": "مفاهیم پایه و اپیدمیولوژی",
+        "description": "شناخت تعریف، علائم کلاسیک و بار بیماری.",
+        "cards": [
+          {
+            "id": "session-10-section-01-card-01",
+            "type": "info",
+            "title": "تعریف ==زخم پپتیک== (**PUD**)",
+            "content": "==زخم پپتیک== نقص مخاطی در ==معده== و/یا ==دوازدهه== است که با التهاب فعال ایجاد می‌شود و یکپارچگی مخاط را مختل می‌کند.\n**PUD** شامل ==زخم معده== (**GU**) و ==زخم دوازدهه== (**DU**) است؛ نقص > ++۵ mm++ در مخاط که به زیرمخاط می‌رسد."
+          },
+          {
+            "id": "session-10-section-01-card-02",
+            "type": "key_point",
+            "title": "علائم و بار بیماری",
+            "content": "درد کلاسیک: سوزشی اپی‌گاستر که با غذا در ==DU== بهتر می‌شود؛ اما > ++۹۰٪++ افراد با دیسپپسی چنین زخمی ندارند و بسیاری از زخم‌ها بی‌علامت‌اند.\nابتلا ++۴ میلیون++ در سال در آمریکا؛ شیوع طول عمر ~ ++۸.۴٪++؛ در مردان شایع‌تر.\n@@مرگ‌ومیر و هزینه قابل توجه@@: ~ ++۱۵۰۰۰++ مرگ/سال و هزینه سالانه ~ ++۶ میلیارد دلار++."
+          },
+          {
+            "id": "session-10-section-01-card-03",
+            "type": "quiz",
+            "question": "کدام گزینه درباره اپیدمیولوژی **PUD** درست است؟",
+            "options": [
+              "شیوع طول عمر حدود ++۲٪++ و در زنان شایع‌تر است.",
+              "شیوع طول عمر ~ ++۸.۴٪++ و در مردان شایع‌تر است.",
+              "بیشتر بیماران با دیسپپسی زخم فعال دارند.",
+              "بیماری فقط در سالمندان دیده می‌شود."
+            ],
+            "correctAnswer": 1,
+            "explanation": "در فایل: شیوع طول عمر ~ ++۸.۴٪++ و ابتلا در مردان شایع‌تر است؛ > ++۹۰٪++ دیسپپسی‌ها زخم ندارند."
+          }
+        ]
+      },
+      {
+        "id": "section-02",
+        "title": "فیزیولوژی اسید و دفاع مخاط",
+        "description": "مرور سلول جداری، تنظیم ترشح اسید و سطوح دفاع مخاطی.",
+        "cards": [
+          {
+            "id": "session-10-section-02-card-01",
+            "type": "info",
+            "title": "سلول جداری و غدد **Oxyntic**",
+            "content": "سلول جداری با **H+,K+-ATPase** اسید کلریدریک ترشح می‌کند؛ این پمپ فعال و پرانرژی است.\nغدد **Oxyntic** (~ ++۷۵٪++) شامل سلول‌های جداری، chief، mucous neck، ECL و tuft هستند؛ غدد پیلور mucous و gastrin cell دارند."
+          },
+          {
+            "id": "session-10-section-02-card-02",
+            "type": "info",
+            "title": "تنظیم ترشح اسید",
+            "content": "**Gastrin**، **Histamine** و **Acetylcholine** ترشح اسید را تحریک می‌کنند؛ **Somatostatin** و **Prostaglandins** آن را مهار می‌کنند.\nترشح پایه ریتم شبانه‌روزی دارد: شب بالا و صبح پایین. فازهای تحریک: cephalic، gastric و intestinal."
+          },
+          {
+            "id": "session-10-section-02-card-03",
+            "type": "table",
+            "title": "سه سطح دفاع مخاطی",
+            "columns": [
+              "سطح دفاعی",
+              "اجزای کلیدی"
+            ],
+            "rows": [
+              [
+                "**Preepithelial**",
+                "لایه mucus-bicarbonate؛ سد mucus-bicarbonate-phospholipid اسید را خنثی می‌کند."
+              ],
+              [
+                "**Epithelial**",
+                "tight junction، تولید بیکربنات، trefoil peptide، heat shock protein و restitution پس از آسیب."
+              ],
+              [
+                "**Subepithelial**",
+                "میکروسیرکولاسیون؛ تأمین اکسیژن، مواد مغذی، **HCO3−** و دفع مواد زائد."
+              ]
+            ]
+          },
+          {
+            "id": "session-10-section-02-card-04",
+            "type": "key_point",
+            "title": "**Pepsinogen** و **Pepsin**",
+            "content": "سلول‌های chief **Pepsinogen** ترشح می‌کنند که در pH < ++۲++ به **Pepsin** تبدیل می‌شود.\n**Pepsin** در pH > ++۴++ غیرفعال و در pH ≥ ++۷++ دناتوره می‌شود."
+          }
+        ]
+      },
+      {
+        "id": "section-03",
+        "title": "پاتوفیزیولوژی و عوامل خطر",
+        "description": "نقش **H. pylori**، **NSAIDs** و مکانیسم تفاوت **DU** و **GU**.",
+        "cards": [
+          {
+            "id": "session-10-section-03-card-01",
+            "type": "info",
+            "title": "علل اصلی **PUD**",
+            "content": "دو عامل اصلی **PUD**: ==H. pylori== و **NSAIDs**.\nسایر خطرها: سیگار، **COPD**، نارسایی کلیه، سن بالا و **SSRIs**."
+          },
+          {
+            "id": "session-10-section-03-card-02",
+            "type": "info",
+            "title": "عوامل باکتریایی ==H. pylori==",
+            "content": "==H. pylori== گرم‌منفی، مارپیچی و زیر لایه موکوس معده است؛ **Urease**، **Flagella**، **Cag A** و **Vac A** در بقا و آسیب نقش دارند.\nعفونت تقریباً همیشه گاستریت مزمن می‌دهد، اما فقط بخشی از افراد زخم پیدا می‌کنند."
+          },
+          {
+            "id": "session-10-section-03-card-03",
+            "type": "key_point",
+            "title": "مکانیسم **DU** در برابر **GU**",
+            "content": "گاستریت آنتر-غالب مرتبط با ==H. pylori== → افزایش اسید → ==DU==.\nپان‌گاستریت → آتروفی و کاهش اسید → ==GU==."
+          },
+          {
+            "id": "session-10-section-03-card-04",
+            "type": "info",
+            "title": "آسیب ناشی از **NSAIDs**",
+            "content": "**NSAIDs** با مهار **COX-1** پروستاگلاندین‌های محافظ را کاهش می‌دهند → اختلال دفاع مخاط، چسبندگی نوتروفیل و آسیب.\nاثر موضعی: افزایش نفوذپذیری، بازگشت اسید/پپسین و فعال‌سازی lipoxygenase؛ **Enteric-coated NSAIDs** هم زخم ایجاد می‌کنند."
+          },
+          {
+            "id": "session-10-section-03-card-05",
+            "type": "key_point",
+            "title": "خطرهای GI با **NSAID**",
+            "content": "خطر بالاتر با دوز بالا/چند **NSAID**، سن > ++۶۵++، سابقه زخم، ==H. pylori==، سیگار/الکل، **SSRIs**، کورتیکواستروئید، ضدانعقاد و **Clopidogrel**.\n@@هم‌زمانی H. pylori و NSAID خطر خونریزی/زخم را بیشتر می‌کند@@."
+          },
+          {
+            "id": "session-10-section-03-card-06",
+            "type": "quiz",
+            "question": "کدام مکانیسم با ایجاد ==DU== در عفونت ==H. pylori== سازگارتر است؟",
+            "options": [
+              "پان‌گاستریت و کاهش شدید اسید",
+              "گاستریت آنتر-غالب و افزایش اسید",
+              "مهار **COX-1** و کاهش پروستاگلاندین",
+              "افزایش **Somatostatin** و مهار اسید"
+            ],
+            "correctAnswer": 1,
+            "explanation": "در فایل: گاستریت آنتر-غالب → افزایش اسید → ==DU==؛ پان‌گاستریت → آتروفی/کاهش اسید → ==GU==."
+          }
+        ]
+      },
+      {
+        "id": "section-04",
+        "title": "تظاهرات بالینی و عوارض",
+        "description": "الگوی درد، عوارض شایع و تریاد سوراخ‌شدگی.",
+        "cards": [
+          {
+            "id": "session-10-section-04-card-01",
+            "type": "info",
+            "title": "الگوی درد",
+            "content": "درد اپی‌گاستر سوزشی/گازگرفتگی/گرسنگی.\n==DU==: درد ++۱.۵-۳ h++ بعد غذا، با غذا/آنتی‌اسید بهتر؛ درد شبانه ++۱۲-۳ a.m.++ مشخصه.\n==GU==: درد ممکن است با غذا بدتر شود.\n@@۲/۳ بیماران ممکن است درد نداشته باشند@@."
+          },
+          {
+            "id": "session-10-section-04-card-02",
+            "type": "key_point",
+            "title": "عوارض **PUD**",
+            "content": "خونریزی شایع‌ترین عارضه (~ ++۱۵٪++)؛ مورتالیتی ++۳۰ روزه++ ++۲.۵-۱۰٪++؛ > ++۵۰٪++ بدون علائم قبلی خونریزی می‌کنند.\nسوراخ‌شدگی ++۶-۷٪++ با مورتالیتی > ++۲۰٪++: درد حاد، تاکی‌کاردی، شکم سخت. @@مورتالیتی بالا@@\nانسداد خروجی معده کم‌شایع‌ترین (++۱-۲٪++)."
+          },
+          {
+            "id": "session-10-section-04-card-03",
+            "type": "flashcard",
+            "question": "تریاد کلاسیک سوراخ‌شدگی در **PUD** چیست؟",
+            "answer": "درد ناگهانی شدید + تاکی‌کاردی + شکم سخت/چوبی."
+          },
+          {
+            "id": "session-10-section-04-card-04",
+            "type": "quiz",
+            "question": "شایع‌ترین عارضه **PUD** کدام است؟",
+            "options": [
+              "انسداد خروجی معده",
+              "خونریزی",
+              "سوراخ‌شدگی",
+              "بدخیمی"
+            ],
+            "correctAnswer": 1,
+            "explanation": "در فایل: خونریزی شایع‌ترین عارضه است (~ ++۱۵٪++)."
+          }
+        ]
+      },
+      {
+        "id": "section-05",
+        "title": "تشخیص",
+        "description": "اندوسکوپی، تست‌های **H. pylori** و تأیید ریشه‌کنی.",
+        "cards": [
+          {
+            "id": "session-10-section-05-card-01",
+            "type": "info",
+            "title": "ارزیابی تشخیصی",
+            "content": "**Endoscopy** حساس‌ترین و اختصاصی‌ترین روش است.\n**Barium study** امروزه کم‌کاربرد است.\nبرای ==GU== بیوپسی لازم است چون ممکن است بدخیم باشد."
+          },
+          {
+            "id": "session-10-section-05-card-02",
+            "type": "table",
+            "title": "تست‌های تشخیص ==H. pylori==",
+            "columns": [
+              "تست",
+              "نوع",
+              "نکته کلیدی"
+            ],
+            "rows": [
+              [
+                "**Rapid urease**",
+                "تهاجمی",
+                "حساسیت ++۸۰-۹۵٪++؛ با **PPI**/آنتی‌بیوتیک/بیسموت اخیر منفی کاذب می‌دهد."
+              ],
+              [
+                "**Histology**",
+                "تهاجمی",
+                "حساسیت ++۸۰-۹۰٪++ و اختصاصیت > ++۹۵٪++."
+              ],
+              [
+                "**Culture**",
+                "تهاجمی",
+                "امکان تعیین حساسیت آنتی‌بیوتیکی؛ زمان‌بر و وابسته به تجربه."
+              ],
+              [
+                "**Urea breath test**",
+                "غیرتهاجمی",
+                "حساسیت/اختصاصیت > ++۹۰٪++؛ برای پیگیری زودرس مناسب."
+              ],
+              [
+                "**Stool antigen**",
+                "غیرتهاجمی",
+                "حساسیت/اختصاصیت > ++۹۰٪++؛ ارزان و راحت."
+              ],
+              [
+                "**Serology**",
+                "غیرتهاجمی",
+                "برای پیگیری زودرس مناسب نیست؛ مثبت می‌ماند."
+              ]
+            ]
+          },
+          {
+            "id": "session-10-section-05-card-03",
+            "type": "key_point",
+            "title": "تأیید ریشه‌کنی ==H. pylori==",
+            "content": "حداقل ++۴ هفته++ بعد از درمان با **UBT** یا **Stool antigen** تأیید کنید.\n**Serology** برای تأیید مناسب نیست.\nقبل از تست، **PPI** را ++۱-۲ هفته++ قطع کنید."
+          },
+          {
+            "id": "session-10-section-05-card-04",
+            "type": "quiz",
+            "question": "برای تأیید ریشه‌کنی ==H. pylori== کدام روش و زمان درست است؟",
+            "options": [
+              "**Serology** بلافاصله بعد درمان",
+              "**Urea breath test** حداقل ++۴ هفته++ بعد درمان",
+              "**Culture** در همان روز",
+              "**Rapid urease** بدون قطع **PPI**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "**UBT** یا **Stool antigen** حداقل ++۴ هفته++ بعد درمان؛ **Serology** مثبت می‌ماند."
+          }
+        ]
+      },
+      {
+        "id": "section-06",
+        "title": "درمان کاهش اسید و محافظت مخاط",
+        "description": "داروهای اصلی، مکانیسم و عوارض مهم.",
+        "cards": [
+          {
+            "id": "session-10-section-06-card-01",
+            "type": "info",
+            "title": "مرور درمان **PUD**",
+            "content": "ستون‌های درمان: ریشه‌کنی ==H. pylori==، پیشگیری/مدیریت زخم ناشی از **NSAID** و کاهش اسید.\nمونوتراپی آنتی‌اسید استاندارد نیست."
+          },
+          {
+            "id": "session-10-section-06-card-02",
+            "type": "table",
+            "title": "داروهای کاهش اسید",
+            "columns": [
+              "دسته",
+              "مثال",
+              "نکته کلیدی"
+            ],
+            "rows": [
+              [
+                "**Antacids**",
+                "**Mylanta**، **Maalox**، **Tums**",
+                "عمدتاً برای تسکین علامتی."
+              ],
+              [
+                "**H2 receptor antagonists**",
+                "**Cimetidine**، **Ranitidine**، **Famotidine**، **Nizatidine**",
+                "کاهش ترشح پایه و تحریک‌شده؛ **Cimetidine** مهار **CYP450** و اثر antiandrogenic دارد."
+              ],
+              [
+                "**Proton pump inhibitors**",
+                "**Omeprazole**، **Pantoprazole**، **Esomeprazole**",
+                "مهار برگشت‌ناپذیر **H+,K+-ATPase**؛ حداکثر اثر ++۲-۶ h++ و مدت تا ++۷۲-۹۶ h++."
+              ],
+              [
+                "**P-CAB**",
+                "**Vonoprazan**",
+                "بلوک‌کننده رقابتی پتاسیم؛ شروع سریع و مدت طولانی‌تر."
+              ]
+            ]
+          },
+          {
+            "id": "session-10-section-06-card-03",
+            "type": "key_point",
+            "title": "عوارض طولانی **PPI**",
+            "content": "**PPI** با عفونت **C. difficile**/پنومونی، کمبود آهن/B12/منیزیم، شکستگی استخوان و عوارض کلیوی/شناختی احتمالی مرتبط است.\n@@احتیاط در استفاده طولانی‌مدت@@."
+          },
+          {
+            "id": "session-10-section-06-card-04",
+            "type": "info",
+            "title": "**PPI** و **Clopidogrel**",
+            "content": "**PPI**ها به‌ویژه **Omeprazole** ممکن است با مهار **CYP2C19** اثر **Clopidogrel** را کم کنند.\nجدا کردن زمان مصرف توصیه می‌شود؛ **Pantoprazole** گزینه مناسب‌تر با **Clopidogrel** است."
+          },
+          {
+            "id": "session-10-section-06-card-05",
+            "type": "flashcard",
+            "question": "مکانیسم اصلی **PPI** چیست؟",
+            "answer": "مهار برگشت‌ناپذیر **H+,K+-ATPase** در سلول جداری و بلوک همه فازهای ترشح اسید."
+          }
+        ]
+      },
+      {
+        "id": "section-07",
+        "title": "ریشه‌کنی ==H. pylori==",
+        "description": "اندیکاسیون‌ها، رژیم‌های درمانی و مقاومت آنتی‌بیوتیکی.",
+        "cards": [
+          {
+            "id": "session-10-section-07-card-01",
+            "type": "info",
+            "title": "چه کسانی درمان شوند؟",
+            "content": "درمان ==H. pylori== در همه ==PUD== تأییدشده، سابقه **PUD** با تست مثبت، **MALT lymphoma** معده و بستگان درجه اول سرطان معده.\nتست/درمان در دیسپپسی < ++۶۰++ سال، مصرف طولانی **NSAID**/آسپرین، کم‌خونی فقر آهن/ITP بی‌علت و پس از جراحی سرطان معده."
+          },
+          {
+            "id": "session-10-section-07-card-02",
+            "type": "table",
+            "title": "رژیم‌های ریشه‌کنی ==H. pylori==",
+            "columns": [
+              "رژیم",
+              "اجزا",
+              "مدت"
+            ],
+            "rows": [
+              [
+                "**Bismuth quadruple**",
+                "**PPI** + **Bismuth** + **Metronidazole** + **Tetracycline**",
+                "++۱۰-۱۴ روز++"
+              ],
+              [
+                "**Concomitant**",
+                "**PPI** + **Clarithromycin** + **Amoxicillin** + **Metronidazole**",
+                "++۱۰-۱۵ روز++"
+              ],
+              [
+                "**Clarithromycin triple**",
+                "**PPI** + **Clarithromycin** + **Amoxicillin** یا **Metronidazole**",
+                "++۱۴ روز++"
+              ]
+            ]
+          },
+          {
+            "id": "session-10-section-07-card-03",
+            "type": "key_point",
+            "title": "مقاومت آنتی‌بیوتیکی",
+            "content": "مقاومت **Metronidazole** تا ++۸۰٪++ در کشورهای در حال توسعه؛ **Clarithromycin** ~ ++۱۵٪++ در آمریکا؛ مقاومت **Amoxicillin/Tetracycline** نادر است.\n@@سابقه مصرف ماکرولید → از Clarithromycin اجتناب شود@@."
+          },
+          {
+            "id": "session-10-section-07-card-04",
+            "type": "quiz",
+            "question": "کدام رژیم اولین خط در مناطق با مقاومت بالای **Clarithromycin** مناسب‌تر است؟",
+            "options": [
+              "**Clarithromycin triple**",
+              "**Bismuth quadruple**",
+              "فقط **PPI**",
+              "فقط **Antacid**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "در فایل: **Bismuth quadruple** در مناطق با مقاومت بالای **Clarithromycin** مفید است."
+          }
+        ]
+      },
+      {
+        "id": "section-08",
+        "title": "پیشگیری از زخم **NSAID**، زخم مقاوم و مرور سریع",
+        "description": "جمع‌بندی نکات کلیدی و اقدامات پیشگیرانه.",
+        "cards": [
+          {
+            "id": "session-10-section-08-card-01",
+            "type": "info",
+            "title": "پیشگیری از زخم **NSAID**",
+            "content": "کمترین دوز مؤثر **NSAID** را استفاده کنید.\nهمراه **PPI** یا **Misoprostol** تجویز کنید.\nدر بیماران پرخطر از **COX-2 selective** مانند **Celecoxib** استفاده کنید."
+          },
+          {
+            "id": "session-10-section-08-card-02",
+            "type": "info",
+            "title": "==زخم مقاوم==",
+            "content": "==GU== بعد از ++۱۲ هفته++ و ==DU== بعد از ++۸ هفته++ ترمیم‌نشده = ==زخم مقاوم==.\nبررسی: عدم adherence، ==H. pylori== پایدار، **NSAID**، سیگار، بدخیمی (خصوصاً **GU**) و حالت هیپرترشحی مانند **Zollinger-Ellison**."
+          },
+          {
+            "id": "session-10-section-08-card-03",
+            "type": "key_point",
+            "title": "نکات کلیدی **PUD**",
+            "content": "==H. pylori== و **NSAIDs** علل اصلی‌اند.\nتست و درمان ==H. pylori== انجام شود.\n**PPI** برای ترمیم و پیشگیری استفاده شود.\nبیماران پرخطر برای محافظت GI شناسایی شوند."
+          },
+          {
+            "id": "session-10-section-08-card-04",
+            "type": "quiz",
+            "question": "کدام اقدام برای پیشگیری از زخم **NSAID** در بیمار پرخطر درست است؟",
+            "options": [
+              "افزایش دوز **NSAID**",
+              "همراه کردن **PPI** یا **Misoprostol**",
+              "قطع همه **PPI**ها",
+              "استفاده از **NSAID** بدون بررسی خطر"
+            ],
+            "correctAnswer": 1,
+            "explanation": "در فایل: کمترین دوز مؤثر + **PPI** یا **Misoprostol**؛ در پرخطر **COX-2 selective**."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "session": {
+    "id": "session-02",
+    "title": "سیروز کبدی (Cirrhosis)",
+    "shortTitle": "استاد امینیان",
+    "description": "مرور جامع تعریف، پاتوژنز، تظاهرات بالینی، تشخیص، اتیولوژی و عوارض ==سیروز کبدی==",
+    "sections": [
+      {
+        "id": "section-01",
+        "title": "مفاهیم پایه و پاتوژنز",
+        "description": "تعریف ==فیبروز== و ==سیروز== و مکانیسم ایجاد آن‌ها",
+        "cards": [
+          {
+            "id": "session-02-section-01-card-01",
+            "type": "info",
+            "title": "==فیبروز== کبدی",
+            "content": "==فیبروز== رسوب بیش از حد ماتریکس خارج سلولی (**Collagens**، **Glycoproteins**، **Proteoglycans**) در کبد است.\n==فیبروز== یک فرایند @@برگشت‌پذیر@@ است."
+          },
+          {
+            "id": "session-02-section-01-card-02",
+            "type": "info",
+            "title": "==سیروز== کبدی",
+            "content": "==سیروز== مرحله پیشرفته ==فیبروز== پیش‌رونده است که با اختلال ساختار کبد و تشکیل **Regenerative nodules** مشخص می‌شود.\nبرخلاف ==فیبروز==، در بیشتر بیماران ==سیروز== @@برگشت‌پذیر نیست@@."
+          },
+          {
+            "id": "session-02-section-01-card-03",
+            "type": "key_point",
+            "title": "تفاوت کلیدی ==فیبروز== و ==سیروز==",
+            "content": "==فیبروز== برگشت‌پذیر است، اما ==سیروز== در اکثر بیماران @@غیرقابل برگشت@@ است.\nپیشرفت به ==سیروز== می‌تواند از ++چند هفته++ تا ++چند سال++ طول بکشد."
+          },
+          {
+            "id": "session-02-section-01-card-04",
+            "type": "info",
+            "title": "پاتوژنز ==فیبروز== کبدی",
+            "content": "مهم‌ترین مکانیسم‌ها:\n• فعال‌سازی **Stellate cells**\n• رسوب **Collagen** در **Space of Disse**\n• تنگی سینوزوئیدها (**Constriction**)\n• از دست رفتن منافذ سینوزوئیدها (**Defenestration**)"
+          },
+          {
+            "id": "session-02-section-01-card-05",
+            "type": "quiz",
+            "question": "کدام گزینه درباره ==سیروز== صحیح است؟",
+            "options": [
+              "==سیروز== همیشه برگشت‌پذیر است",
+              "در بیشتر بیماران ==سیروز== @@برگشت‌پذیر نیست@@",
+              "==سیروز== همان ==فیبروز== است",
+              "==سیروز== فقط در الکلیسم دیده می‌شود"
+            ],
+            "correctAnswer": 1,
+            "explanation": "==فیبروز== برگشت‌پذیر است، اما ==سیروز== در اکثر بیماران @@برگشت‌پذیر نیست@@."
+          }
+        ]
+      },
+      {
+        "id": "section-02",
+        "title": "تظاهرات بالینی و یافته‌های فیزیکی",
+        "description": "شناخت **Stigmata** بیماری مزمن کبدی و یافته‌های فیزیکی ==سیروز==",
+        "cards": [
+          {
+            "id": "session-02-section-02-card-01",
+            "type": "info",
+            "title": "حالت‌های تظاهر ==سیروز==",
+            "content": "بیماران ممکن است به شکل‌های زیر مراجعه کنند:\n• بدون علامت (**Asymptomatic**) با امید به زندگی نسبتاً طبیعی\n• **Stigmata** بیماری مزمن کبدی\n• به‌طور تصادفی\n• با عوارض @@تهدیدکننده حیات@@" 
+          },
+          {
+            "id": "session-02-section-02-card-02",
+            "type": "table",
+            "title": "یافته‌های فیزیکی ==سیروز==",
+            "columns": ["دسته", "یافته‌ها"],
+            "rows": [
+              ["پوستی", "==Spider angiomata==، ==Palmar erythema==، ==Jaundice==، ==Caput medusae=="],
+              ["ناخن و انگشت", "**Terry's nails**، **Clubbing**، **Dupuytren's contracture**"],
+              ["جنسی/هورمونی", "==Gynecomastia==، ==Testicular atrophy=="],
+              ["شکمی", "==Hepatomegaly==، ==Splenomegaly==، ==Ascites=="],
+              ["عصبی", "==Asterixis=="],
+              ["سایر", "==Fetor hepaticus==، **Cruveilhier-Baumgarten murmur**"]
+            ]
+          },
+          {
+            "id": "session-02-section-02-card-03",
+            "type": "info",
+            "title": "==Spider angioma== و ==Palmar erythema==",
+            "content": "==Spider angioma==: آرتریول‌های سطحی و پرپیچ‌وتاب که از **مرکز به خارج** پر می‌شوند؛ در تنه، صورت و اندام فوقانی.\n==Palmar erythema==: تشدید لکه‌لکه بودن طبیعی کف دست روی **Thenar** و **Hypothenar**.\nهر دو ناشی از اختلال متابولیسم هورمون‌های جنسی (افزایش نسبت **Estradiol/Free testosterone**) هستند و @@اختصاصی سیروز نیستند@@ (بارداری، سوءتغذیه، هیپرتیروئیدی، آرتریت روماتوئید)."
+          },
+          {
+            "id": "session-02-section-02-card-04",
+            "type": "key_point",
+            "title": "==Spider angioma== و شدت بیماری",
+            "content": "تعداد و اندازه ==Spider angioma== با **شدت بیماری کبدی** ارتباط دارد.\nدر افراد سالم معمولاً کمتر از ++۳++ ضایعه کوچک دیده می‌شود."
+          },
+          {
+            "id": "session-02-section-02-card-05",
+            "type": "info",
+            "title": "تغییرات ناخن، **Clubbing** و **Dupuytren**",
+            "content": "**Terry's nails**: دو سوم پروکسیمال صفحه ناخن سفید و یک سوم دیستال قرمز؛ ثانویه به آلبومین سرم پایین.\n**Clubbing**: زاویه بین صفحه ناخن و چین ناخن مجاور بیش از ++۱۸۰++ درجه؛ همراه با **Hypertrophic osteoarthropathy**.\n**Dupuytren's contracture**: ضخیم و کوتاه شدن **Palmar fascia** با دفورمیتی فلکشن انگشتان؛ شایع‌تر در ==سیروز الکلی==."
+          },
+          {
+            "id": "session-02-section-02-card-06",
+            "type": "info",
+            "title": "==Gynecomastia== و ==Testicular atrophy==",
+            "content": "==Gynecomastia==: تکثیر خوش‌خیم بافت غده‌ای پستان مرد؛ در تا ++دو سوم++ بیماران ==سیروز==.\nمکانیسم: افزایش تولید **Androstenedione** از آدرنال و تبدیل بیشتر آن به **Estrone** و سپس **Estradiol**.\n==Testicular atrophy==: عمدتاً در ==سیروز الکلی== و ==هموکروماتوز==."
+          },
+          {
+            "id": "session-02-section-02-card-07",
+            "type": "flashcard",
+            "question": "==Spider angioma== چگونه از **Simple telangiectasia** افتراق می‌یابد؟",
+            "answer": "==Spider angioma== از **مرکز به خارج** پر می‌شود، در حالی که **Simple telangiectasia** این‌گونه نیست."
+          },
+          {
+            "id": "session-02-section-02-card-08",
+            "type": "flashcard",
+            "question": "یافته ناخنی مشخصه ==سیروز== با آلبومین پایین چیست؟",
+            "answer": "**Terry's nails** (ناخن‌های سفید): ++دو سوم++ پروکسیمال سفید و ++یک سوم++ دیستال قرمز."
+          },
+          {
+            "id": "session-02-section-02-card-09",
+            "type": "quiz",
+            "question": "کدام یافته فیزیکی در ==سیروز== اختصاصی است؟",
+            "options": [
+              "==Spider angioma==",
+              "==Palmar erythema==",
+              "==Caput medusae== در زمینه پرفشاری پورت",
+              "**Clubbing**"
+            ],
+            "correctAnswer": 2,
+            "explanation": "==Spider angioma==، ==Palmar erythema== و **Clubbing** اختصاصی نیستند؛ اما ==Caput medusae== ناشی از باز شدن ورید نافی در پرفشاری پورت است."
+          }
+        ]
+      },
+      {
+        "id": "section-03",
+        "title": "یافته‌های آزمایشگاهی",
+        "description": "شناخت الگوی آزمایشگاهی ==سیروز==",
+        "cards": [
+          {
+            "id": "session-02-section-03-card-01",
+            "type": "info",
+            "title": "آنزیم‌های کبدی در ==سیروز==",
+            "content": "**AST** و **ALT** معمولاً افزایش خفیف تا متوسط دارند؛ **AST** شایع‌تر از **ALT** بالا می‌رود.\n**Alkaline phosphatase** معمولاً بالا ولی کمتر از ++۲-۳++ برابر حد طبیعی؛ در **PSC** و **PBC** بالاتر.\nنکته: **Aminotransferases** طبیعی، تشخیص ==سیروز== را رد نمی‌کند."
+          },
+          {
+            "id": "session-02-section-03-card-02",
+            "type": "key_point",
+            "title": "نسبت **AST/ALT** در ==سیروز الکلی==",
+            "content": "نسبت **AST/ALT** در ==هپاتیت الکلی== و ==سیروز الکلی== معمولاً @@بیشتر از ++۲++@@ است.\n**AST** معمولاً کمتر از ++۳۰۰ IU/L++ و @@تقریباً هرگز بالای ++۵۰۰ IU/L++@@ نیست."
+          },
+          {
+            "id": "session-02-section-03-card-03",
+            "type": "info",
+            "title": "آلبومین، **PT** و بیلی‌روبین",
+            "content": "**Albumin**: فقط در کبد ساخته می‌شود و برای درجه‌بندی شدت ==سیروز== کاربرد دارد.\n**Prothrombin time**: منعکس‌کننده اختلال سنتز کبدی.\n**Bilirubin**: در ==سیروز== جبران‌شده می‌تواند طبیعی باشد و با پیشرفت بیماری بالا می‌رود."
+          },
+          {
+            "id": "session-02-section-03-card-04",
+            "type": "table",
+            "title": "علل ==آنمی== در ==سیروز==",
+            "columns": ["دسته", "علل"],
+            "rows": [
+              ["خون‌ریزی", "خون‌ریزی حاد و مزمن گوارشی"],
+              ["تغذیه‌ای", "کمبود **Folate**"],
+              ["توکسیک", "سمیت مستقیم الکل"],
+              ["طحالی", "**Hypersplenism**"],
+              ["مغز استخوان", "سرکوب مغز استخوان، ==آنمی بیماری مزمن=="],
+              ["همولیز", "==همولیز=="]
+            ]
+          },
+          {
+            "id": "session-02-section-03-card-05",
+            "type": "info",
+            "title": "==هیپوناترمی== و تغییرات سلولی",
+            "content": "==هیپوناترمی== در بیماران با ==آسیت== شایع است و از سطح بالای **ADH** ناشی می‌شود؛ با پیشرفت به ==بیماری کبدی انتهایی== شدیدتر می‌شود.\n**Thrombocytopenia** عمدتاً به‌دلیل پرفشاری پورت و **Congestive splenomegaly** و کاهش **Thrombopoietin** است.\n**Leukopenia** و **Neutropenia** به‌دلیل **Hypersplenism** است."
+          },
+          {
+            "id": "session-02-section-03-card-06",
+            "type": "quiz",
+            "question": "کدام الگوی آزمایشگاهی در ==هپاتیت الکلی== انتظار می‌رود؟",
+            "options": [
+              "**AST/ALT** کمتر از ++۱++ و **AST** بالای ++۱۰۰۰ IU/L++",
+              "**AST/ALT** بیشتر از ++۲++ و **AST** کمتر از ++۳۰۰ IU/L++",
+              "**ALT** بسیار بالاتر از **AST**",
+              "**Alkaline phosphatase** بالای ++۱۰++ برابر حد طبیعی"
+            ],
+            "correctAnswer": 1,
+            "explanation": "در ==هپاتیت الکلی== نسبت **AST/ALT** بیشتر از ++۲++ است و **AST** معمولاً کمتر از ++۳۰۰ IU/L++."
+          }
+        ]
+      },
+      {
+        "id": "section-04",
+        "title": "تشخیص و بیوپسی",
+        "description": "نقش تصویربرداری و بیوپسی در تشخیص و مرحله‌بندی ==سیروز==",
+        "cards": [
+          {
+            "id": "session-02-section-04-card-01",
+            "type": "info",
+            "title": "اولتراسونوگرافی در ==سیروز==",
+            "content": "در ==سیروز== پیشرفته کبد کوچک و ندولار می‌شود.\nافزایش **Echogenicity** با نواحی نامنظم، آتروفی لوب راست و هیپرتروفی لوب caudate یا چپ از یافته‌های شایع هستند.\nکاربرد: **Screening** برای **HCC** و پرفشاری پورت؛ تشخیص **Splenomegaly**، ==آسیت== و **Portal vein thrombosis**."
+          },
+          {
+            "id": "session-02-section-04-card-02",
+            "type": "info",
+            "title": "بیوپسی کبد",
+            "content": "**Liver biopsy** استاندارد طلایی ارزیابی ==بیماری کبدی== است (حساسیت ++۸۰-۱۰۰٪++).\nاگر داده‌های بالینی، آزمایشگاهی و رادیولوژیک قویاً مطرح‌کننده ==سیروز== باشند، بیوپسی @@ضروری نیست@@."
+          },
+          {
+            "id": "session-02-section-04-card-03",
+            "type": "table",
+            "title": "سیستم **METAVIR**",
+            "columns": ["دسته", "معیار"],
+            "rows": [
+              ["فعالیت (**A**)", "**A0** بدون فعالیت، **A1** خفیف، **A2** متوسط، **A3** شدید"],
+              ["فیبروز (**F**)", "**F0** بدون فیبروز، **F1** فیبروز پورت بدون سپتا، **F2** سپتای نادر، **F3** سپتای متعدد بدون سیروز، **F4** ==سیروز=="]
+            ]
+          },
+          {
+            "id": "session-02-section-04-card-04",
+            "type": "flashcard",
+            "question": "استاندارد طلایی تشخیص ==سیروز== چیست؟",
+            "answer": "**Liver biopsy** با حساسیت ++۸۰-۱۰۰٪++؛ اما در صورت شواهد قوی بالینی/آزمایشگاهی/رادیولوژیک، @@ضروری نیست@@."
+          },
+          {
+            "id": "session-02-section-04-card-05",
+            "type": "quiz",
+            "question": "کدام مرحله **METAVIR** معادل ==سیروز== است؟",
+            "options": [
+              "**F1**",
+              "**F2**",
+              "**F3**",
+              "**F4**"
+            ],
+            "correctAnswer": 3,
+            "explanation": "در **METAVIR**، مرحله **F4** معادل ==سیروز== است."
+          }
+        ]
+      },
+      {
+        "id": "section-05",
+        "title": "اتیولوژی ==سیروز==",
+        "description": "علل شایع و بیماری‌های اختصاصی منجر به ==سیروز==",
+        "cards": [
+          {
+            "id": "session-02-section-05-card-01",
+            "type": "info",
+            "title": "علل شایع ==سیروز==",
+            "content": "علل مهم:\n• ==بیماری کبدی الکلی==\n• ==هپاتیت مزمن B==\n• ==هپاتیت مزمن C==\n• ==NAFLD==\n• ==هپاتیت خودایمن==\n• ==PBC== و ==PSC==\n• ==هموکروماتوز==، ==بیماری ویلسون==، کمبود **Alpha-1 antitrypsin**\n• داروها (**Methotrexate**، **Methyldopa**، **Amiodarone**)، **Budd-Chiari**، قلبی، **Cryptogenic**"
+          },
+          {
+            "id": "session-02-section-05-card-02",
+            "type": "info",
+            "title": "==PBC== (Primary Biliary Cholangitis)",
+            "content": "زنان میانسال؛ خارش، خستگی، یرقان، کاهش وزن بی‌دلیل، ناراحتی RUQ.\n**Alkaline phosphatase** تقریباً همیشه بالا (گاهی بسیار بالا)؛ **IgM** سرم بالا؛ **Hypercholesterolemia**.\n**AMA (Antimitochondrial antibodies)**: نشانگر سرمی اختصاصی (**Sen** ++۹۵٪++، **Spec** ++۹۸٪++).\nهمراهی با **Sjögren**، **Arthritis**، **Raynaud**."
+          },
+          {
+            "id": "session-02-section-05-card-03",
+            "type": "info",
+            "title": "==PSC== (Primary Sclerosing Cholangitis)",
+            "content": "اختلال پیش‌رونده مزمن با التهاب، فیبروز و تنگی مجاری متوسط و بزرگ داخل و خارج کبدی.\nتشخیص: نمای **Multifocal stricturing** و **Dilation** در **Cholangiography**.\nارتباط قوی با **IBD**، به‌ویژه **UC** (تا ++۹۰٪++ در بیماران **PSC**؛ **PSC** در ++۵٪++ بیماران **UC**)."
+          },
+          {
+            "id": "session-02-section-05-card-04",
+            "type": "info",
+            "title": "==هپاتیت خودایمن== (AIH)",
+            "content": "هپاتیت مزمن با اتوآنتی‌بادی‌هایcirculating و **Hypergammaglobulinemia** (به‌ویژه **IgG**).\nافزایش **Aminotransferases** بارزتر از بیلی‌روبین و **ALP**.\nنوع ۱ (کلاسیک): **ANA** و/یا **ASMA**.\nنوع ۲: **ALKM-1** و/یا **ALC-1**."
+          },
+          {
+            "id": "session-02-section-05-card-05",
+            "type": "table",
+            "title": "مقایسه ==PBC== و ==PSC==",
+            "columns": ["ویژگی", "==PBC==", "==PSC=="],
+            "rows": [
+              ["جمعیت", "زنان میانسال", "هر دو جنس"],
+              ["مجاری درگیر", "مجاری کوچک داخل لوبولی", "مجاری متوسط و بزرگ داخل و خارج کبدی"],
+              ["نشانگر اختصاصی", "**AMA** (**Sen** ++۹۵٪++، **Spec** ++۹۸٪++)", "**Cholangiography** با تنگی‌های multifocal"],
+              ["ارتباط بیماری", "**Sjögren**، **Arthritis**، **Raynaud**", "**IBD**، به‌ویژه **UC** (تا ++۹۰٪++)"],
+              ["**ALP**", "تقریباً همیشه بالا، گاهی بسیار بالا", "بالا"]
+            ]
+          },
+          {
+            "id": "session-02-section-05-card-06",
+            "type": "quiz",
+            "question": "کدام آنتی‌بادی نشانگر سرمی اختصاصی ==PBC== است؟",
+            "options": [
+              "**ANA**",
+              "**ASMA**",
+              "**AMA**",
+              "**ALKM-1**"
+            ],
+            "correctAnswer": 2,
+            "explanation": "**AMA** نشانگر سرمی ==PBC== است (**Sen** ++۹۵٪++، **Spec** ++۹۸٪++)."
+          }
+        ]
+      },
+      {
+        "id": "section-06",
+        "title": "پرفشاری پورت و واریس",
+        "description": "تعریف پرفشاری پورت، **HVPG**، واریس مری و نمرات **Child-Pugh** و **MELD**",
+        "cards": [
+          {
+            "id": "session-02-section-06-card-01",
+            "type": "info",
+            "title": "پرفشاری پورت و **HVPG**",
+            "content": "فشار طبیعی ورید پورت ++۵-۱۰ mmHg++؛ پرفشاری پورت @@بیشتر از ++۱۰ mmHg++@@.\n==سیروز== شایع‌ترین علت پرفشاری پورت است.\n**HVPG** = **WHVP** − **FHVP** (اختلاف فشار ورید پورت و **IVC**)."
+          },
+          {
+            "id": "session-02-section-06-card-02",
+            "type": "key_point",
+            "title": "آستانه‌های **HVPG**",
+            "content": "**HVPG** طبیعی: کمتر از ++۵ mmHg++\n**HVPG** بیشتر از ++۵ mmHg++: پرفشاری پورت\n**HVPG** بیشتر از ++۸ mmHg++: خطر تشکیل ==آسیت==\n**HVPG** بیشتر از ++۱۲ mmHg++: خطر تشکیل ==واریس=="
+          },
+          {
+            "id": "session-02-section-06-card-03",
+            "type": "info",
+            "title": "==واریس مری==",
+            "content": "==واریس مری== @@مهم‌ترین محل خون‌ریزی@@ در پرفشاری پورت و @@شایع‌ترین عارضه کشنده سیروز@@ است.\nدر ++۵۰-۶۰٪++ بیماران ==سیروز== ایجاد می‌شود؛ ++۳۰٪++ آن‌ها در ++۲ سال++ دچار خون‌ریزی می‌شوند.\nهر اپیزود خون‌ریزی فعال: ++۲۰٪++ مرگ‌ومیر؛ بازماندگان: ++۷۰٪++ خطر خون‌ریزی مجدد در ++۱ سال++." 
+          },
+          {
+            "id": "session-02-section-06-card-04",
+            "type": "info",
+            "title": "**Child-Pugh** و **MELD**",
+            "content": "**Child-Pugh**: بیلی‌روبین، آلبومین، **PT/INR**، **Ascites**، **Encephalopathy**.\nکلاس **A** = ++۵-۶++ نمره، **B** = ++۷-۹++، **C** = ++۱۰-۱۵++ (شدیدترین).\n**MELD**: بیلی‌روبین، **INR**، **Creatinine**؛ **MELD-Na** شامل **Na** هم هست."
+          },
+          {
+            "id": "session-02-section-06-card-05",
+            "type": "quiz",
+            "question": "کدام آستانه **HVPG** خطر تشکیل ==واریس== را نشان می‌دهد؟",
+            "options": [
+              "بیشتر از ++۳ mmHg++",
+              "بیشتر از ++۵ mmHg++",
+              "بیشتر از ++۸ mmHg++",
+              "بیشتر از ++۱۲ mmHg++"
+            ],
+            "correctAnswer": 3,
+            "explanation": "**HVPG** بیشتر از ++۱۲ mmHg++ با خطر تشکیل ==واریس== همراه است؛ ++۸ mmHg++ برای ==آسیت== و ++۵ mmHg++ برای پرفشاری پورت."
+          }
+        ]
+      },
+      {
+        "id": "section-07",
+        "title": "==آسیت==، **SBP** و **HRS**",
+        "description": "شایع‌ترین عارضه ==سیروز==، پریتونیت باکتریایی خودبه‌خودی و سندرم هپاتورنال",
+        "cards": [
+          {
+            "id": "session-02-section-07-card-01",
+            "type": "info",
+            "title": "==آسیت== در ==سیروز==",
+            "content": "==آسیت== شایع‌ترین عارضه ==سیروز== و ==سیروز== شایع‌ترین علت ==آسیت== است (++۸۱٪++).\nعلل دیگر: **Cancer** ++۱۰٪++، **Heart failure** ++۳٪++، **TB** ++۲٪++، **Dialysis** ++۱٪++.\nپاتوژنز: پرفشاری پورت → وازودیلاتاسیون (**NO**) → فعال‌سازی **RAAS**، **SNS** و **ADH** → احتباس سدیم و آب."
+          },
+          {
+            "id": "session-02-section-07-card-02",
+            "type": "table",
+            "title": "طبقه‌بندی ==آسیت== بر اساس **SAAG**",
+            "columns": ["**SAAG**", "علل"],
+            "rows": [
+              ["بالا (≥ ++۱.۱ g/dL++)", "==سیروز==، ==هپاتیت الکلی==، **CHF**، **Constrictive pericarditis**، **Budd-Chiari**، **Veno-occlusive disease**، **Massive hepatic metastases**"],
+              ["پایین (< ++۱.۱ g/dL++)", "**Peritoneal carcinomatosis**، **Peritoneal TB**، **Pancreatitis**، **Serositis**، **Nephrotic syndrome**، **Biliary leak**"]
+            ]
+          },
+          {
+            "id": "session-02-section-07-card-03",
+            "type": "info",
+            "title": "**SBP** (Spontaneous Bacterial Peritonitis)",
+            "content": "پریتونیت باکتریایی حاد بدون منبع عفونت اولیه مشخص.\nعلائم: تب ++۶۹٪++، درد شکم ++۵۹٪++، تغییر وضعیت ذهنی ++۵۴٪++، حساسیت شکمی ++۴۹٪++.\nعوامل خطر: ==سیروز پیشرفته==، **Ascitic fluid protein** کمتر از ++۱ g/dL++، سابقه **SBP**، **Bilirubin** بالای ++۲.۵ mg/dL++، ==خون‌ریزی واریسی==، سوءتغذیه."
+          },
+          {
+            "id": "session-02-section-07-card-04",
+            "type": "key_point",
+            "title": "تشخیص **SBP**",
+            "content": "**PMN** مایع آسیت @@بیشتر از ++۲۵۰ cells/mm³++@@ قوی‌ترین شاهد **SBP** است.\n**SBP** فقط نیاز به آنتی‌بیوتیک دارد، ولی **Secondary bacterial peritonitis** نیاز به آنتی‌بیوتیک و جراحی دارد.\n@@تا ++۷۰٪++ بیماران در ++۱ سال++ عود می‌کنند@@ → پروفیلاکسی طولانی‌مدت."
+          },
+          {
+            "id": "session-02-section-07-card-05",
+            "type": "info",
+            "title": "**HRS** (Hepatorenal Syndrome)",
+            "content": "نارسایی حاد کلیه در ==سیروز پیشرفته==: **Azotemia** بدترشونده، ==هیپوناترمی==، **Oliguria** پیش‌رونده و **Hypotension**.\nتوسط ==خون‌ریزی گوارشی شدید==، **Sepsis**، دیورز شدید یا **Paracentesis** تسریع می‌شود.\n**Urine sodium** در **HRS** @@کمتر از ++۵ mmol/L++@@ است (افتراق از **ATN**)."
+          },
+          {
+            "id": "session-02-section-07-card-06",
+            "type": "quiz",
+            "question": "کدام **SAAG** نشان‌دهنده علت پرفشاری پورت است؟",
+            "options": [
+              "**SAAG** ≥ ++۱.۱ g/dL++",
+              "**SAAG** < ++۱.۱ g/dL++",
+              "**SAAG** < ++۰.۵ g/dL++",
+              "**SAAG** = صفر"
+            ],
+            "correctAnswer": 0,
+            "explanation": "**SAAG** ≥ ++۱.۱ g/dL++ (بالا) در ==سیروز== و سایر علل پرفشاری پورت دیده می‌شود."
+          }
+        ]
+      },
+      {
+        "id": "section-08",
+        "title": "==انسفالوپاتی کبدی==",
+        "description": "تعریف، پاتوژنز و عوامل تشدیدکننده ==انسفالوپاتی کبدی==",
+        "cards": [
+          {
+            "id": "session-02-section-08-card-01",
+            "type": "info",
+            "title": "==انسفالوپاتی کبدی== (HE)",
+            "content": "اختلال عملکرد مغز به‌دلیل اختلالات متابولیک در ==نارسایی کبدی پیشرفته==.\n@@برگشت‌پذیر@@ پس از بهبود عملکرد کبد.\nفرضیه **Ammonia**: **Ammonia** از **Enterocytes** (گلوتامین) و کاتابولیسم باکتریایی روده تولید می‌شود و اثرات نوروتوکسیک متعدد دارد.\nفرضیه **GABA**: **GABA** ماده نوروانهیبی در دستگاه گوارش است."
+          },
+          {
+            "id": "session-02-section-08-card-02",
+            "type": "table",
+            "title": "عوامل تشدیدکننده ==انسفالوپاتی کبدی==",
+            "columns": ["دسته", "عوامل"],
+            "rows": [
+              ["داروها", "**Benzodiazepines**، **Narcotics**، ==الکل=="],
+              ["افزایش **Ammonia**", "پروتئین زیاد رژیم، ==خون‌ریزی گوارشی==، عفونت (شامل **SBP**)، **Constipation**، ==هیپوکالمی==، **Metabolic alkalosis**"],
+              ["دهیدراتاسیون", "استفراغ، اسهال، خون‌ریزی، دیورتیک، **Large paracentesis**"],
+              ["**Portosystemic shunting**", "شنت‌های رادیولوژیک/جراحی، شنت‌های خودبه‌خودی"],
+              ["انسداد عروقی", "**Portal vein thrombosis**، **Hepatic vein thrombosis**"],
+              ["سایر", "**HCC**"]
+            ]
+          },
+          {
+            "id": "session-02-section-08-card-03",
+            "type": "flashcard",
+            "question": "آیا ==انسفالوپاتی کبدی== برگشت‌پذیر است؟",
+            "answer": "بله؛ @@برگشت‌پذیری کامل@@ پس از بهبود عملکرد کبد رخ می‌دهد. **Asterixis** و اختلالات نورولوژیک در گریدهای بالاتر بارزترند."
+          },
+          {
+            "id": "session-02-section-08-card-04",
+            "type": "quiz",
+            "question": "کدام عامل از تشدیدکننده‌های ==انسفالوپاتی کبدی== نیست؟",
+            "options": [
+              "==هیپوکالمی==",
+              "==خون‌ریزی گوارشی==",
+              "افزایش پروتئین رژیم",
+              "**Metabolic acidosis**"
+            ],
+            "correctAnswer": 3,
+            "explanation": "**Metabolic alkalosis** (نه اسیدوز) از عوامل تشدیدکننده ==انسفالوپاتی کبدی== است."
+          }
+        ]
+      },
+      {
+        "id": "section-09",
+        "title": "عوارض ریوی و قلبی",
+        "description": "==سندرم هپاتوپولموناری==، **Portopulmonary HTN** و **Cirrhotic cardiomyopathy**",
+        "cards": [
+          {
+            "id": "session-02-section-09-card-01",
+            "type": "info",
+            "title": "==سندرم هپاتوپولموناری== (HPS)",
+            "content": "دیلاتاسیون بستر عروقی ریه در بیماری مزمن کبدی؛ شیوع ++۴-۴۷٪++.\nعلائم: **Dyspnea**، **Platypnea** (تشدید دیسپنه در وضعیت ایستاده و بهبود با خوابیدن) و **Orthodeoxia** (افت اشباع اکسیژن در وضعیت ایستاده و بهبود با خوابیدن)."
+          },
+          {
+            "id": "session-02-section-09-card-02",
+            "type": "info",
+            "title": "**Portopulmonary HTN** و **Cirrhotic cardiomyopathy**",
+            "content": "**Portopulmonary hypertension**: شیوع ++۲-۱۶٪++؛ خستگی، دیسپنه، ادم محیطی، درد قفسه سینه و **Syncope**.\n**Cirrhotic cardiomyopathy**: تا ++۵۰٪++ بیماران ==سیروز پیشرفته== اختلال عملکرد قلبی دارند."
+          },
+          {
+            "id": "session-02-section-09-card-03",
+            "type": "quiz",
+            "question": "**Platypnea** و **Orthodeoxia** مشخصه کدام عارضه ==سیروز== است؟",
+            "options": [
+              "**Portopulmonary hypertension**",
+              "==سندرم هپاتوپولموناری== (**HPS**)",
+              "**Cirrhotic cardiomyopathy**",
+              "==آسیت=="
+            ],
+            "correctAnswer": 1,
+            "explanation": "**Platypnea** و **Orthodeoxia** از مشخصات ==سندرم هپاتوپولموناری== هستند."
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "مرور سریع",
+        "description": "جمع‌بندی نکات کلیدی ==سیروز==",
+        "cards": [
+          {
+            "id": "session-02-section-10-card-01",
+            "type": "key_point",
+            "title": "نکات کلیدی ==سیروز==",
+            "content": "• ==فیبروز== برگشت‌پذیر، ==سیروز== @@غیرقابل برگشت@@\n• شایع‌ترین عارضه: ==آسیت==\n• کشنده‌ترین عارضه: ==خون‌ریزی واریسی==\n• **SAAG** ≥ ++۱.۱ g/dL++ = علل پرفشاری پورت\n• **PMN** مایع آسیت > ++۲۵۰++ = **SBP**\n• **Urine Na** < ++۵ mmol/L++ = **HRS**"
+          },
+          {
+            "id": "session-02-section-10-card-02",
+            "type": "flashcard",
+            "question": "مهم‌ترین آستانه‌های **HVPG** کدام‌اند؟",
+            "answer": "> ++۵ mmHg++: پرفشاری پورت\n> ++۸ mmHg++: خطر ==آسیت==\n> ++۱۲ mmHg++: خطر ==واریس=="
+          },
+          {
+            "id": "session-02-section-10-card-03",
+            "type": "quiz",
+            "question": "کدام عارضه شایع‌ترین عارضه ==سیروز== است؟",
+            "options": [
+              "==خون‌ریزی واریسی==",
+              "==آسیت==",
+              "**HRS**",
+              "==انسفالوپاتی کبدی=="
+            ],
+            "correctAnswer": 1,
+            "explanation": "==آسیت== شایع‌ترین عارضه ==سیروز== است."
+          }
+        ]
+      }
+    ]
+  }
+}
