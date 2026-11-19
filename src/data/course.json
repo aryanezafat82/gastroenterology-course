@@ -61,6 +61,21 @@
       "id": "session-12",
       "title": "یبوست",
       "file": "session-12.json"
+    },
+    {
+      "id": "session-13",
+      "title": "هپاتیت",
+      "file": "session-13.json"
+    },
+    {
+      "id": "session-14",
+      "title": "اسهال",
+      "file": "session-14.json"
+    },
+    {
+      "id": "session-15",
+      "title": "تومور های UGI",
+      "file": "session-15.json"
     }
   ]
 }
